@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\flutter_app - Copy\\build\\path_provider_android\\intermediates\\merged_res\\debug\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\038e09985aa5047cf8d57dbb5b6b24f1\\transformed\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\flutter_app - Copy\\build\\path_provider_android\\intermediates\\merged_res\\debug\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\038e09985aa5047cf8d57dbb5b6b24f1\\transformed\\core-1.1.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\flutter_app - Copy\\build\\path_provider_android\\intermediates\\merged_res\\debug\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\038e09985aa5047cf8d57dbb5b6b24f1\\transformed\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\flutter_app - Copy\\build\\path_provider_android\\intermediates\\merged_res\\debug\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\038e09985aa5047cf8d57dbb5b6b24f1\\transformed\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\flutter_app - Copy\\build\\path_provider_android\\intermediates\\merged_res\\debug\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\038e09985aa5047cf8d57dbb5b6b24f1\\transformed\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    }
+]
